@@ -55,3 +55,6 @@ Recomenda-se a venda da Loja 4, pois apresentou:
 O menor faturamento entre as lojas analisadas
 
 Avaliações negativas por parte dos clientes, abaixo da média geral
+
+Autor:
+Gabriel Henrique do Nascimento
