@@ -1,1 +1,1 @@
-# nálise de Desempenho das Lojas Alura Store
+# Análise de Desempenho das Lojas Alura Store
